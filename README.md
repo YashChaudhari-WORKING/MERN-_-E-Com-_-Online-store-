@@ -34,11 +34,14 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser. 
 Creates an optimized production build in the `build` folder.
 
 ### `npm test`
-### author 
-yash chaudhari 
-Msc computer science (2024)
+
 Launches the test runner in interactive watch mode.
 
 ### `npm run eject`
 
 **Note:** This is a one-way operation, and once you eject, you cannot go back.
+
+### author 
+
+yash chaudhari 
+Msc computer science (2024)
