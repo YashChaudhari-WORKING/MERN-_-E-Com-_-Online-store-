@@ -16,7 +16,7 @@ this is full-stack e-commerce (online store) application using the MERN stack.
 
 1. Navigate to the frontend directory and install dependencies:
    ```bash
-   cd frontend
+   cd store - frontend
    npm install
    ```
 
@@ -34,7 +34,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser. 
 Creates an optimized production build in the `build` folder.
 
 ### `npm test`
-
+### author 
+yash chaudhari 
+Msc computer science (2024)
 Launches the test runner in interactive watch mode.
 
 ### `npm run eject`
